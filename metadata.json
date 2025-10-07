@@ -1,0 +1,5 @@
+{
+  "name": "Breathing Timer",
+  "description": "A one-page breathing timer website for 2-5 minutes of relaxation. It features a simple, single-focus interface with visual cues for a 4-2-6-4 second breathing rhythm, designed for quiet environments with optional sounds and a low-motion mode.",
+  "requestFramePermissions": []
+}
